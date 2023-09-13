@@ -14,7 +14,7 @@
 > [[Earth Science/astronomy/moon observation/달(moon)\|달(moon)]]
 > [[Earth Science/astronomy/planet observation/내행성의 관측(inner planet)\|내행성의 관측(inner planet)]]
 > [[Earth Science/astronomy/planet observation/외행성의 관측(outer planet)\|외행성의 관측(outer planet)]]
-> [[Earth Science/astronomy/planet observation/행성의 공전 주기와 궤도(rotation periods and orbits)\|행성의 공전 주기와 궤도(rotation periods and orbits)]]
+> [[Earth Science/astronomy/planet observation/행성의 공전 주기와 궤도(planet's rotation period and orbit)\|행성의 공전 주기와 궤도(planet's rotation period and orbit)]]
 ## 생명과학
 ### 분자생물학
 > [[Biology/호르몬(hormone)\|호르몬(hormone)]]
