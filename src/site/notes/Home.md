@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-Welcome to my Second Brain! 
-Here, I store thing that are important, but yet to complicated to remember by myself. 
+저의 두번쨰 두뇌에 오신걸 환영합니다!
+이곳에서 저는 자료를 수집하고, 정리하고, 창조하며, 공유합니다.
 
-Here are some pages you may like:
-- [[Brain/Resources/hormone/호르몬(hormone)\|resources/hormone]]
+다음은 자주 찾는 페이지들입니다.
+- [[Biology/호르몬(hormone)\|resources/hormone]]
