@@ -6,15 +6,15 @@
 이곳에서 저는 자료를 수집하고, 정리하고, 창조하며, 공유합니다. 
 
 ---
-# 2학년
+# 과학고 2학년 과정
 ## 지구과학
 ### 천체
 > [[Earth Science/astronomy/coordinate  system/지평좌표계(horizontal coordinate system)\|지평좌표계(horizontal coordinate system)]]
 > [[Earth Science/astronomy/coordinate  system/적도좌표계(equatorial coordinate system)\|적도좌표계(equatorial coordinate system)]]
-> [[Earth Science/astronomy/moon observation/달\|달]]
-> [[Earth Science/astronomy/planet observation/내행성의 관측\|내행성의 관측]]
-> [[Earth Science/astronomy/planet observation/외행성의 관측\|외행성의 관측]]
-> [[Earth Science/astronomy/planet observation/행성의 공전 주기와 궤도\|행성의 공전 주기와 궤도]]
+> [[Earth Science/astronomy/moon observation/달(moon)\|달(moon)]]
+> [[Earth Science/astronomy/planet observation/내행성의 관측(inner planet)\|내행성의 관측(inner planet)]]
+> [[Earth Science/astronomy/planet observation/외행성의 관측(outer planet)\|외행성의 관측(outer planet)]]
+> [[Earth Science/astronomy/planet observation/행성의 공전 주기와 궤도(rotation periods and orbits)\|행성의 공전 주기와 궤도(rotation periods and orbits)]]
 ## 생명과학
 ### 분자생물학
 > [[Biology/호르몬(hormone)\|호르몬(hormone)]]
