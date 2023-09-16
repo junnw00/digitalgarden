@@ -8,3 +8,6 @@
 적경은 춘분점을 기준으로 천체가 속한 시간권까지 반시계방향으로 잰 각도. 적경은 춘분점으로 부터 동쪽으로 0~24시로 나타낸다.
 # 시간각
 시간각은 남중 [[Earth Science/astronomy/coordinate  system/자오선(meridian)\|자오선]]에서 천체가 속한 [[Earth Science/astronomy/coordinate  system/시간권(hour circle)\|시간권]]까지 천구의 적도를 따라 시계 방향으로 잰 각을 말한다. 항성시를 구할 때 주로 사용하며, 별의 시간각은 0시이다.
+# 남중고도
+![Pasted image 20230917024255.png|500](/img/user/attatchments/Pasted%20image%2020230917024255.png)
+$$h=90^\circ-\phi+\delta$$
