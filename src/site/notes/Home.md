@@ -17,7 +17,7 @@
 > [[Earth Science/astronomy/planet observation/행성의 공전 주기와 궤도(planet's rotation period and orbit)\|행성의 공전 주기와 궤도(planet's rotation period and orbit)]]
 ## 생명과학
 ### 분자생물학
-> [[Biology/호르몬(hormone)\|호르몬(hormone)]]
+> [[Biology/hormone/호르몬(hormone)\|호르몬(hormone)]]
 > [[Biology/분비 단백질(Secretory Proteins)\|분비 단백질(Secretory Proteins)]]
 ### 유전학
 > [[Biology/세포주기(Cell cycle)\|세포주기(Cell cycle)]]
