@@ -8,4 +8,4 @@
 
 # 참고문헌
 - [Oogenesis, Ovulation and Fertilization | 생물학 | JoVE](https://www.jove.com/kr/science-education/10906/oogenesis-ovulation-and-fertilization?language=Korean)
-- [난자 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%9E%90
+- [난자 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%9E%90)
