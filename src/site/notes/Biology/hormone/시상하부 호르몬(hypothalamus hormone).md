@@ -12,8 +12,8 @@
 4. 음식물 섭취와 수분대사의 조절 : 식욕 조절
 # 시상하부 호르몬
 각 [[Biology/hormone/호르몬(hormone)\|호르몬]]들이 대부분 [[Biology/hormone/뇌하수체 호르몬(pituitary gland hormone)\|뇌하수체 전엽]]에서의 호르몬 방출을 조절한다.
-![스크린샷 2023-09-14 오후 2.50.03.png|500](/img/user/attatchments/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-09-14%20%EC%98%A4%ED%9B%84%202.50.03.png)
-![스크린샷 2023-09-14 오후 2.59.20.png|500](/img/user/attatchments/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-09-14%20%EC%98%A4%ED%9B%84%202.59.20.png)
+![Pasted image 20230924114848.png|500](/img/user/attatchments/Pasted%20image%2020230924114848.png)
+![Pasted image 20230924114855.png|500](/img/user/attatchments/Pasted%20image%2020230924114855.png)
 - PRH : 프로락틴방출호르몬
 - PIH : 프로락틴억제호르몬(도파민)
 - TRH : 갑상선자극호르몬(TSH) 방출호르몬
